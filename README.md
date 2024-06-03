@@ -24,5 +24,5 @@ There are two versions of this project available in the repository:
 
 Disclaimer:
 When playing it is best to choose word length anywhere from 3-6 characters for the best experience
-Playing with anymore than 7 characters causes the game to fail
+Playing with anymore than 7 characters causes the game to fail.
 Will work on fixing this soon :)
